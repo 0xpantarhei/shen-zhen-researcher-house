@@ -32,8 +32,6 @@ We provide: Five nights of accommodation (August 13 - August 17)
 
 **Mentors**
 
-EF PSE Researcher: **Leo Lara**
-
 ZK Engineer: **Even Lu**
 
 Luban Core Developer, EPF fellow: **Will Q**
