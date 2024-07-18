@@ -1,4 +1,5 @@
 # shen-zhen-researcher-house
+<img width="993" alt="shen-zhen-researcher-house" src="research_house.jpg">
 
 ## Overview
 
