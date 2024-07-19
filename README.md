@@ -24,20 +24,47 @@ We provide: Five nights of accommodation (August 13 - August 17)
 **Research Topics**
 
 - Fundamentals of ZKRollup, solutions analysis
+- Forced inclusion list
 - Based rollup
 - Pre-confirmation
 - Decentralized Prover
 - Decentralized Sequencer
-- Forced inclusion list
 - Fee mechanisms for decentralized Prover/Sequencer
 
 **Mentors**
 
-ZK Engineer: **Even Lu**
+EF PSE Researcher Engineer: [**Leo Lara**](https://x.com/leolarav)
 
-Luban Core Developer, EPF fellow: **Will Q**
+ZK Engineer: [**Even Lu**](https://x.com/evenlu_lu)
 
-Panta Rhei Researcher: **Jason Cui**
+Luban Core Developer, EPF fellow: [**Will Q**](https://x.com/zsluedem06)
+
+Panta Rhei Researcher: [**Jason Cui**](https://x.com/0xbbbb_eth)
+
+Morph DevRel Engineer: [**Luca**](https://x.com/0xGantoL)
+
+## Recruitment
+
+**We need you:**
+
+- With research experience in blockchain technology and protocol
+- Understanding the basic concepts of ZKRollup
+- Understanding the basic concepts of transaction inclusion and censorship
+- Able to participate in online pre-reading a week in advance
+
+**You will get:**
+
+- Free accommodation for five nights
+- A unique Research marathon experience!
+- House demo will have a chance to win rewards of $1,500 - $3,500 from ETH Shenzhen Hackathon
+
+## Application
+
+Enter the application link, fill out the questionnaire, and wait for an interview contact.
+
+Application form: https://forms.gle/N5TtmKVVHeRiBfeAA
+
+This event is mainly organized by [Franci](https://x.com/Franci_Deng), dm her for any questions about the Researcher House.
 
 ## What is Blockchain Economics?
 
@@ -100,24 +127,3 @@ Schedule: breakout workshop in the morning; collaborative research and Research 
 **Day 5. 2024/8/18 ｜ Demo Day**
 
 Schedule: ETH Shenzhen Hackathon
-
-## Recruitment
-
-**We need you:**
-
-- With research experience in blockchain technology and protocol
-- Understanding the basic concepts of ZKRollup
-- Understanding the basic concepts of transaction inclusion and censorship
-- Able to participate in online pre-reading a week in advance
-
-**You will get:**
-
-- Free accommodation for five nights
-- A unique Research marathon experience!
-- House demo will have a chance to win rewards of $1,500 - $3,500 from ETH Shenzhen Hackathon
-
-## Application
-
-Enter the application link, fill out the questionnaire, and wait for an interview contact.
-
-Application form: https://forms.gle/N5TtmKVVHeRiBfeAA
