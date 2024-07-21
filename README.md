@@ -108,7 +108,7 @@ Schedule: co-working/pre-reading in the morning; talks and discussions in the af
 
 **Day 2. 2024/8/15 ｜ Decentralized ZKRollup**
 
-Content: Based rollup, pre-confirmation, decentralized Prover, decentralized Sequencer, forced inclusion list
+Content: Based rollup, pre-confirmation, decentralized Prover, decentralized Sequencer, forced inclusion mechanism
 
 Schedule: co-working/pre-reading in the morning; talks and discussions in the afternoon
 
