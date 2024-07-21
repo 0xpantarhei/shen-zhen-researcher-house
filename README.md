@@ -24,7 +24,7 @@ We provide: Five nights of accommodation (August 13 - August 17)
 **Research Topics**
 
 - Fundamentals of ZKRollup, solutions analysis
-- Forced inclusion list
+- Forced inclusion mechanism for Rollup
 - Based rollup
 - Pre-confirmation
 - Decentralized Prover
