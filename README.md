@@ -93,7 +93,7 @@ To reduce the difficulty and ensure smooth progress of the Researchathon in the 
 In this Researcher House, we will explore the existing problems and solutions in zkrollup system design through three main sections.
 
 - We will start with the fundamentals of zkrollup, discussing the issues it aims to address, its basic components, and comparative solutions.
-- Next, we will tackle the training wheels: how to achieve decentralization and censorship resistance in zkrollup. Topics will include forced inclusion lists, based rollup, decentralized sequencer, and decentralized prover.
+- Next, we will tackle the training wheels: how to achieve decentralization and censorship resistance in zkrollup. Topics will include forced inclusion mechanism for rollup, based rollup, decentralized sequencer, and decentralized prover.
 - Finally, we will address the critical aspect of sustainable zkrollup fee mechanisms. ZKP has a characteristic where verification costs are low, but generating proofs is significantly more expensive. Thus, zkrollup requires a different fee mechanism than optimistic rollup and the Ethereum mainnet. For instance, keccak executes quickly, but generating proofs is slow. Charging fees based on keccak gas from the mainnet could make zkrollup vulnerable to DDoS attacks. Topics will include formalizing and categorizing zkrollup fee mechanisms and designing fee mechanisms for decentralized provers and sequencers.
 
 ### Agenda
