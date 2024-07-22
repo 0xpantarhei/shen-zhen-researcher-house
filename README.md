@@ -1,6 +1,10 @@
 # shen-zhen-researcher-house
 <img width="993" alt="shen-zhen-researcher-house" src="research_house.jpg">
 
+#### Pre-reading materials for researchers
+https://boiled-stream-58c.notion.site/ZKRollup-Economics-47bb17ab5efc440cbf3ee274fd3e32be
+
+
 ## Overview
 
 The Shenzhen Researcher House, initiated by the Ethereum economics research community Panta Rhei, aims to connect researchers and application developers in the Ethereum ecosystem through co-living, co-learning, and co-research. This initiative seeks to advance fundamental research and applied research in Ethereum.
