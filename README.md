@@ -4,6 +4,9 @@
 #### Pre-reading materials for researchers
 https://boiled-stream-58c.notion.site/ZKRollup-Economics-47bb17ab5efc440cbf3ee274fd3e32be
 
+#### Agenda
+https://lu.ma/shenzhen-researcher-house
+
 
 ## Overview
 
@@ -117,6 +120,8 @@ In this Researcher House, we will explore the existing problems and solutions in
 - Finally, we will address the critical aspect of sustainable zkrollup fee mechanisms. ZKP has a characteristic where verification costs are low, but generating proofs is significantly more expensive. Thus, zkrollup requires a different fee mechanism than optimistic rollup and the Ethereum mainnet. For instance, keccak executes quickly, but generating proofs is slow. Charging fees based on keccak gas from the mainnet could make zkrollup vulnerable to DDoS attacks. Topics will include formalizing and categorizing zkrollup fee mechanisms and designing fee mechanisms for decentralized provers and sequencers.
 
 ### Agenda
+
+https://lu.ma/shenzhen-researcher-house
 
 The Researcher House will run for 5 days (August 14 - 18). During this period, recruited researchers will engage in the three sections, share their learnings, and summarize their chosen topics through group discussions.
 
