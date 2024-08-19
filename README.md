@@ -1,6 +1,10 @@
 # shen-zhen-researcher-house
 <img width="993" alt="shen-zhen-researcher-house" src="research_house.jpg">
 
+**Sponsor**
+
+This event is sponsored by [EF Ecosystem Support Program](https://x.com/EF_ESP).
+
 #### Pre-reading materials for researchers
 https://boiled-stream-58c.notion.site/ZKRollup-Economics-47bb17ab5efc440cbf3ee274fd3e32be
 
@@ -38,10 +42,6 @@ We provide: Five nights of accommodation (August 13 - August 17)
 - Decentralized Sequencer
 - Fee mechanisms for decentralized Prover/Sequencer
 
-**Sponsor**
-
-This event is sponsored by [EF Ecosystem Support Program](https://x.com/EF_ESP).
-
 **Mentors**
 
 ZK Engineer: [**Even Lu**](https://x.com/evenlu_lu)
@@ -52,9 +52,7 @@ Luban Core Developer, EPF fellow: [**Will Q**](https://x.com/zsluedem06)
 
 [Taipei Ethereum Meetup](https://medium.com/taipei-ethereum-meetup?source=about_page-------------------------------------): [Nic Lin](https://medium.com/@twedusuck)
 
-[Reddio](https://x.com/reddio_com) Head of Engineering: [魏文侯](https://x.com/chnxnrn89848642)
-
-Morph DevRel Engineer: [**Luca**](https://x.com/0xGantoL)
+[Reddio](https://x.com/reddio_com) Head of Engineering: [Chen Xinran](https://x.com/chnxnrn89848642)
 
 House researcher: [Abram](https://x.com/chandlemapwell)
 
