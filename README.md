@@ -5,10 +5,10 @@
 
 This event is sponsored by [EF Ecosystem Support Program](https://x.com/EF_ESP).
 
-#### Pre-reading materials for researchers
+**Pre-reading materials for researchers**
 https://boiled-stream-58c.notion.site/ZKRollup-Economics-47bb17ab5efc440cbf3ee274fd3e32be
 
-#### Agenda
+**Agenda**
 https://lu.ma/shenzhen-researcher-house
 
 
