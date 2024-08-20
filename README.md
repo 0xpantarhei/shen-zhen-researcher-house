@@ -32,7 +32,7 @@ Date: August 14 - August 18 (5 days)
 
 Researchers: 10 people
 
-We provide: Five nights of accommodation (August 13 - August 17)
+We provide: Six nights of accommodation (August 13 - August 18)
 
 **Research Topics**
 
