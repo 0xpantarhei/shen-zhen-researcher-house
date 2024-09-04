@@ -22,7 +22,7 @@ https://github.com/bike-labs/PNPH
 
 ### Presentation Deck (PPT)
 
-https://github.com/0xpantarhei/shen-zhen-researcher-house/blob/main/demo/PNPH/PNPH-Shenzhen-Researcher-house-EN.pdf
+https://github.com/0xpantarhei/shen-zhen-researcher-house/blob/main/demos/PNPH/PNPH-Shenzhen-Researcher-house-EN.pdf
 
 ### Project Demo
 
